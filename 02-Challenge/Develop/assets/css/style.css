@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*header settings*/
 .header {
     padding: 0px 0px 80px 0px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -35,7 +36,7 @@ body {
  .seo {
     color: #d9dcd6;
 }
-/*Added a new class for the header div */
+/*navigation bar settings */
  .menu {
     display:inline;
     padding-top: 20px;
@@ -54,7 +55,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* main image settings*/
 .hero {
     height: 800px;
     width: 100%;
@@ -73,13 +74,14 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/*setting for the articles section*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*setting for the sidebar*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -139,7 +141,8 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+/*setting for search-engine article*/
+.search-engine-optimization {  
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -148,6 +151,7 @@ p {
     color: #ffffff;
 }
 
+/*setting for online-reputation-management article*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -157,6 +161,7 @@ p {
     color: #ffffff;
 }
 
+/*setting for social-media-marketing article*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
