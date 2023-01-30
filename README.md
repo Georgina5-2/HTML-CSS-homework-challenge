@@ -92,6 +92,12 @@ Add the files and commit the changes from the Git to the Github repository by go
 
 * Deploy the code using Github Pages
 
+# Acknowledgements : 
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article
+
 
 
 
