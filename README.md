@@ -67,9 +67,9 @@ The main requirement lies in refactoring the given HTML code and the code in its
 
 * Use proper indentations, alt tag for images, appropriate comments, and the heading attributes in sequential order
 
-![Screenshot_20230129_071613](https://user-images.githubusercontent.com/122113060/215364468-cf08c251-6529-425f-8a6d-74893ace5b3f.png)
+![Screenshot_20230130_054522](https://user-images.githubusercontent.com/122113060/215616918-c5cf7e13-b227-43ad-b53d-3697ef9b23a7.png)
 
-![image](https://user-images.githubusercontent.com/122113060/215364539-50fe153f-d202-4062-8748-c669b4ea40ec.png)
+![Screenshot_20230130_060300](https://user-images.githubusercontent.com/122113060/215617003-a3990552-0428-4fe7-b9f9-c936642f502a.png)
 
 * Make the necessary changes in the stylesheet too with the appropriate comments by the side of the code
 
